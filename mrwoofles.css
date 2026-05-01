@@ -1,0 +1,11 @@
+body    {
+    background-color: #e9bf6d;
+    color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+.fit {
+  max-width: 99%;
+  max-height: 99%;
+}
